@@ -1,2 +1,2 @@
 # my-portfolio-aws
-My public portfolio
+My public portfolio with aws and reactjs
