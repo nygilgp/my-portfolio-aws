@@ -6,3 +6,7 @@ My public portfolio with aws and reactjs.
     *   Git
     *   SSH
     *   Code
+    *   HTML
+    *   CSS
+    *   Google font
+    *   Font Awesome
